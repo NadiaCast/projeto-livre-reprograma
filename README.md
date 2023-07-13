@@ -35,6 +35,8 @@ O objetivo era criar um sistema onde fosse possível disponibilizar todos os pla
 | `Express` | Framework de nodeJS
 | `Dotenv` | Pacote para ocultar variaveis de ambiente|
 | `Mongoose` | Interface com MongoDB|
+| `Swagger` | Framework com ferramentas para descrição, consumo e visualização de serviço|
+| `Nodemon` | Atualiza as mudanças do projeto|
 
 <br />
 <br />
@@ -94,10 +96,10 @@ Dados que um plano possui:
 ### Rotas e operações
 
 GET
-- [x]  **"/planos"** Deverá retornar todas os planos cadastrados
+- [x]  **"/all"** Deverá retornar todas os planos cadastrados
 
 POST
-- [x]  "**/planos**" Deverá criar um plano e retornar o objeto criado
+- [x]  "**/add**" Deverá criar um plano e retornar o objeto criado
 
 DELETE
 - [x]  "**/deleteplano/[ID]**" Deverá deletar um plano e retornar uma mensagem de sucesso

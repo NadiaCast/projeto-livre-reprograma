@@ -1,5 +1,5 @@
-const express = require("express")
-const app = express()
-app.use(express.json())
+const app = require("./src/app");
 
-app.listen(3333, ()=> console.log("Servidor rodando"))
+const DB_PORT = process.env.DB_PORT;
+
+app.listen(DB_PORT, () => console.log(`Listening on port: ${DB_PORT}`));
