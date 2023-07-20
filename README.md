@@ -28,8 +28,7 @@ O objetivo era criar um sistema onde fosse possível disponibilizar todos os pla
 | `nodeJS` | runtime de javaScript|
 | `MongoDB` | banco de dados|
 | `npm` | gerenciador de pacotes|
-| `JWT` | autenticação|
-| `Vercel` | Hospedagem para a aplicação, fiz o deploy integrado com o github|
+| `Render` | Hospedagem para a aplicação, fiz o deploy integrado com o github|
 | `Github` | Hospedagem do código fonte integrado com gerenciador de versionamento|
 | `JEST` | Framework para testes unitário|
 | `Express` | Framework de nodeJS
@@ -59,7 +58,7 @@ Dados que um plano possui:
 
 ### 😎 Diagrama
 
-**irei incluir imagem do diagrama**
+![image](./Diagrama%20Projeto.png)
 
 ### Organização de pastas
 

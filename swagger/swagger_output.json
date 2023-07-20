@@ -3,7 +3,7 @@
   "info": {
     "version": "1.0.0",
     "title": "REST API",
-    "description": "Api para controle de planos de personal trainer"
+    "description": "API para controle de planos de personal trainer"
   },
   "host": "localhost:3333",
   "basePath": "/",
