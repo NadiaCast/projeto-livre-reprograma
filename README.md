@@ -11,7 +11,7 @@
 
 > ⚠️ Eu sou personal trainer e vi a necessidade de criar um controle contendo os informações dos planos e valores. No futuro esse CRUD será utilizado em meu site.
 
-Ela já está no ar e você pode acessar aqui: [meus planos](https://meusplanos.crud.com)
+Ela já está no ar e você pode acessar aqui: [meus planos](https://crud-planos.onrender.com/doc)
 
 ---
 

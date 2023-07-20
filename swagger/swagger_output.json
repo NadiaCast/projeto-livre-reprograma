@@ -5,7 +5,7 @@
     "title": "REST API",
     "description": "API para controle de planos de personal trainer"
   },
-  "host": "localhost:3333",
+  "host": "https://crud-planos.onrender.com",
   "basePath": "/",
   "schemes": [
     "http",
